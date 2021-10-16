@@ -1,0 +1,12 @@
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\bin\Debug\Weboo.ExamenABBE.Tester.exe.config
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\bin\Debug\Weboo.ExamenABBE.Tester.exe
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\bin\Debug\Weboo.ExamenABBE.Tester.pdb
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\bin\Debug\Weboo.ExamenABBE.dll
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\bin\Debug\Weboo.ExamenABBE.Utils.dll
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\bin\Debug\Weboo.ExamenABBE.pdb
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\obj\Debug\Weboo.ExamenABBE.Tester.csprojResolveAssemblyReference.cache
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\obj\Debug\Weboo.ExamenABBE.Tester.exe
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\obj\Debug\Weboo.ExamenABBE.Tester.pdb
+D:\UH\1ro\Programacion\Mi final de pro\Mi examen final de arboles\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\bin\Debug\Weboo.ExamenABBE.Tester.exe.config
+D:\UH\1ro\Programacion\Mi final de pro\Mi examen final de arboles\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\obj\Debug\Weboo.ExamenABBE.Tester.exe
+D:\UH\1ro\Programacion\Mi final de pro\Mi examen final de arboles\Weboo.ExamenABBE\Weboo.ExamenABBE.Tester\obj\Debug\Weboo.ExamenABBE.Tester.pdb

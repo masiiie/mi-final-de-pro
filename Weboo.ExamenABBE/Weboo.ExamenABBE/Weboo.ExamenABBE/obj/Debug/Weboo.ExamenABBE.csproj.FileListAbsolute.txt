@@ -1,0 +1,6 @@
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE\bin\Debug\Weboo.ExamenABBE.dll
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE\bin\Debug\Weboo.ExamenABBE.pdb
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE\bin\Debug\Weboo.ExamenABBE.Utils.dll
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE\obj\Debug\Weboo.ExamenABBE.csprojResolveAssemblyReference.cache
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE\obj\Debug\Weboo.ExamenABBE.dll
+C:\Users\m.villalba\Desktop\Examen\Weboo.ExamenABBE\Weboo.ExamenABBE\obj\Debug\Weboo.ExamenABBE.pdb
