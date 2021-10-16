@@ -1,0 +1,17 @@
+D:\Documents\University\Classes\Programming\Exams\Final 2016\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\bin\Debug\Weboo.ApareandoPatrones.Tester.exe.config
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\bin\Debug\Weboo.ApareandoPatrones.Tester.exe.config
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\bin\Debug\Weboo.ApareandoPatrones.Tester.exe
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\bin\Debug\Weboo.ApareandoPatrones.Tester.pdb
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\bin\Debug\Weboo.ApareandoPatrones.dll
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\bin\Debug\Weboo.ApareandoPatrones.pdb
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\obj\Debug\Weboo.ApareandoPatrones.Tester.csprojResolveAssemblyReference.cache
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\obj\Debug\Weboo.ApareandoPatrones.Tester.exe
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\obj\Debug\Weboo.ApareandoPatrones.Tester.pdb
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\bin\Debug\Weboo.ApareandoPatrones.Tester.exe.config
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\obj\Debug\Weboo.ApareandoPatrones.Tester.exe
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\obj\Debug\Weboo.ApareandoPatrones.Tester.pdb
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\bin\Debug\Weboo.ApareandoPatrones.Tester.exe
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\bin\Debug\Weboo.ApareandoPatrones.Tester.pdb
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\bin\Debug\Weboo.ApareandoPatrones.dll
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\bin\Debug\Weboo.ApareandoPatrones.pdb
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones.Tester\obj\Debug\Weboo.ApareandoPatrones.Tester.csprojResolveAssemblyReference.cache

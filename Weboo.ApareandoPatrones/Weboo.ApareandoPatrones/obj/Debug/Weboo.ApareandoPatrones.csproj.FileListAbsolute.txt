@@ -1,0 +1,9 @@
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones\bin\Debug\Weboo.ApareandoPatrones.dll
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones\bin\Debug\Weboo.ApareandoPatrones.pdb
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones\obj\Debug\Weboo.ApareandoPatrones.dll
+C:\Users\m.villalba\Desktop\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones\obj\Debug\Weboo.ApareandoPatrones.pdb
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones\bin\Debug\Weboo.ApareandoPatrones.dll
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones\bin\Debug\Weboo.ApareandoPatrones.pdb
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones\obj\Debug\Weboo.ApareandoPatrones.csprojResolveAssemblyReference.cache
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones\obj\Debug\Weboo.ApareandoPatrones.dll
+F:\Weboo.ApareandoPatrones\Weboo.ApareandoPatrones\obj\Debug\Weboo.ApareandoPatrones.pdb
